@@ -1,0 +1,51 @@
+=== own post & media for Author ===
+Contributors: projoktibangla
+Donate link: 
+Tags: own, post, media, role, author, editor
+Requires at least: 3.0.1
+Tested up to: 3.4
+Stable tag: 4.3
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Only own post & media show for Another role without Administrator.
+
+== Description ==
+
+Only own post & media show for Another role without Administrator.
+
+
+== Installation ==
+
+= Automatic =
+
+* In the admin panel plugins page click Add New
+* go to Upload tab
+* browse "own post & media for authors" and click install now
+* Click Active plugin
+* Enjoy!
+
+= Manual =
+
+* Extract zip file to your wp-content/plugins directory.
+* In the admin panel under plugins activate "own post & media for authors".
+* Enjoy!
+
+
+== Frequently Asked Questions ==
+
+Any problem, just mail us. email- projoktibangla@gmail.com 
+
+== Screenshots ==
+
+Any problem, just mail us. email- projoktibangla@gmail.com 
+
+== Changelog ==
+
+= 1.0 =
+First Release
+
+== Upgrade Notice ==
+
+= 1.0 =
+First Release
