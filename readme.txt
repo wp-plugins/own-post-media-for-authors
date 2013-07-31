@@ -19,16 +19,16 @@ Only own post & media show for Another role without Administrator.
 
 = Automatic =
 
-* In the admin panel plugins page click Add New
+* In the admin panel under plugins page, click Add New
 * go to Upload tab
-* browse "own post & media for authors" and click install now
+* browse "own post & media for Author" and click install now
 * Click Active plugin
 * Enjoy!
 
 = Manual =
 
 * Extract zip file to your wp-content/plugins directory.
-* In the admin panel under plugins activate "own post & media for authors".
+* In the admin panel under plugins, activate "own post & media for Author".
 * Enjoy!
 
 
