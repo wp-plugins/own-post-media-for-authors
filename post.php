@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: own post & media for Author
+Plugin Name: Own post & media for Author
 Plugin URI: http://projoktibangla.net
-Description: Only own post & media show for Another role without Administrator.
+Description: This plugin allows to restrict user with Author and Contributor roles to view their own Posts and Media.
 Author: projoktibangla
 Version: 1.0
 Author URI: http://projoktibangla.net

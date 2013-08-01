@@ -8,11 +8,12 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Only own post & media show for Another role without Administrator.
+Own post & media show for Another role without Administrator & Editor.
 
 == Description ==
+This plugin allows to restrict user with Author and Contributor roles to view their own Posts and Media.
 
-Only own post & media show for Another role without Administrator.
+www.projoktibangla.net
 
 
 == Installation ==
