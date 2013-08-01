@@ -13,7 +13,7 @@ Own post & media show for Another role without Administrator & Editor.
 == Description ==
 * This plugin allows to restrict user with Author and Contributor roles to view their own Posts and Media.
 
-* Very light weight- only 2 kb
+* Very Lightweight- Only 2KB
 
 * Installation very easy, just install & enjoy.
 
