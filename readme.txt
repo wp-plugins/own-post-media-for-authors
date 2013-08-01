@@ -11,9 +11,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Own post & media show for Another role without Administrator & Editor.
 
 == Description ==
-This plugin allows to restrict user with Author and Contributor roles to view their own Posts and Media.
+* This plugin allows to restrict user with Author and Contributor roles to view their own Posts and Media.
 
-www.projoktibangla.net
+* Very light weight- only 2 kb
+
+* Installation very easy, just install & enjoy.
+
+Created By: www.projoktibangla.net
 
 
 == Installation ==
