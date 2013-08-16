@@ -1,4 +1,4 @@
-=== own post & media for Author ===
+=== PB own post & media for Author ===
 Contributors: projoktibangla
 Donate link: 
 Tags: own, post, media, role, author, editor
