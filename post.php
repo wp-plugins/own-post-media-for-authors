@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: PB Own post & media for Author
+Plugin Name: PBP Own post & media for Author
 Plugin URI: http://projoktibangla.net
 Description: This plugin allows to restrict user with Author and Contributor roles to view their own Posts and Media.
 Author: projoktibangla
