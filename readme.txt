@@ -1,19 +1,18 @@
-=== PBP own post & media for Author ===
+=== PBP own post, media & comments for Author ===
 Contributors: projoktibangla
-Donate link: 
-Tags: own, post, media, role, author, editor
-Requires at least: 3.0.1
-Tested up to: 3.8
-Stable tag: 1.0
+Tags: own, post, media, comments, role, author, contributor
+Requires at least: 3.0
+Tested up to: 4.0
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Own post & media show for Another role without Administrator & Editor.
+Own post, media & comments show for Another role without Administrator & Editor.
 
 == Description ==
-This plugin allows to restrict user with Author and Contributor roles to view their own Posts and Media.
+This plugin allows to restrict user with Author and Contributor roles to view their own Posts, Media & Comments
 
-Very Lightweight- Only 2KB
+Very Lightweight- Only 8KB
 
 Installation very easy, just install & enjoy.
 
@@ -26,14 +25,14 @@ Created By: www.projoktibangla.net
 
 * In the admin panel under plugins page, click Add New
 * go to Upload tab
-* browse "own post & media for Author" and click install now
+* browse "PBP own post, media & comments for Author" and click install now
 * Click Active plugin
 * Enjoy!
 
 = Manual =
 
 * Extract zip file to your wp-content/plugins directory.
-* In the admin panel under plugins, activate "own post & media for Author".
+* In the admin panel under plugins, activate "PBP own post, media & comments for Author".
 * Enjoy!
 
 
@@ -50,7 +49,13 @@ Any problem, just mail us. email- projoktibangla@gmail.com
 = 1.0 =
 First Release
 
+= 2.0 =
+Bug fixed & Comments restriction added
+
 == Upgrade Notice ==
 
 = 1.0 =
 First Release
+
+= 2.0 =
+Bug fixed & Comments restriction added
