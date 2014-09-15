@@ -7,10 +7,10 @@ Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Own post, media & comments show for Another role without Administrator & Editor.
+Own post, media & comments show for another role without administrator & editor.
 
 == Description ==
-This plugin allows to restrict user with Author and Contributor roles to view their own Posts, Media & Comments
+This plugin allows to restrict user with Author and Contributor roles to view their own posts, media & comments
 
 Very Lightweight- Only 3KB
 
@@ -23,16 +23,16 @@ Created By: www.projoktibangla.net
 
 = Automatic =
 
-* In the admin panel under plugins page, click Add New
-* go to Upload tab
-* browse "PBP own post, media & comments for Author" and click install now
-* Click Active plugin
+* In the admin panel under plugins page, click Add New.
+* Go to Upload tab.
+* Browse "PBP own post, media & comments for Author" and click install now.
+* Click Active plugin.
 * Enjoy!
 
 = Manual =
 
 * Extract zip file to your wp-content/plugins directory.
-* In the admin panel under plugins, activate "PBP own post, media & comments for Author".
+* In the admin panel under plugins, click active "PBP own post, media & comments for Author".
 * Enjoy!
 
 
