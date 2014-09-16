@@ -16,7 +16,7 @@ Very Lightweight- Only 3KB
 
 Installation very easy, just install & enjoy.
 
-Created By: www.projoktibangla.net
+Created By: http://goo.gl/XbGy3B
 
 
 == Installation ==
