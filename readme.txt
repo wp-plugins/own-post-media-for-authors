@@ -40,9 +40,6 @@ Created By: www.projoktibangla.net
 
 Any problem, just mail us. email- projoktibangla@gmail.com 
 
-== Screenshots ==
-
-Any problem, just mail us. email- projoktibangla@gmail.com 
 
 == Changelog ==
 
