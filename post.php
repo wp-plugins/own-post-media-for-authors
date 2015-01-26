@@ -4,12 +4,9 @@ Plugin Name: PBP Own post, media & comments for Author
 Plugin URI: http://projoktibangla.net
 Description: This plugin allows to restrict user with Author and Contributor roles to view their own Posts , Media and comments.
 Author: projoktibangla
-Version: 2.0
+Version: 2.1
 Author URI: http://projoktibangla.net
 Tags: own, post, media, comments, author, contributor
-Requires at least: 3.0
-Tested up to: 4.0
-Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
