@@ -49,6 +49,9 @@ First Release
 = 2.0 =
 Bug fixed & Comments restriction added
 
+= 2.1 =
+Little Update
+
 == Upgrade Notice ==
 
 = 1.0 =
@@ -56,3 +59,6 @@ First Release
 
 = 2.0 =
 Bug fixed & Comments restriction added
+
+= 2.1 =
+Little Update
