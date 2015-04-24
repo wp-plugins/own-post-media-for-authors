@@ -4,7 +4,7 @@ Plugin Name: PBP Own post, media & comments for Author
 Plugin URI: http://projoktibangla.net
 Description: This plugin allows to restrict user with Author and Contributor roles to view their own Posts , Media and comments.
 Author: projoktibangla
-Version: 2.1
+Version: 2.2
 Author URI: http://projoktibangla.net
 Tags: own, post, media, comments, author, contributor
 License: GPLv2 or later
@@ -58,7 +58,7 @@ function fix_post_counts($views) {
         );
         $result = new WP_Query($query);
         if( $type['status'] == NULL ):
-            $class = ($wp_query->query_vars['post_status'] == NULL) ? ' class="current"' : '';
+            $class = ($wp_query->get_query_var['post_status'] == NULL) ? ' class="current"' : '';
             $views['all'] = sprintf(
             '<a href="%1$s"%2$s>%4$s <span class="count">(%3$d)</span></a>',
             admin_url('edit.php?post_type=post'),
@@ -67,7 +67,7 @@ function fix_post_counts($views) {
             __('All')
         );
         elseif( $type['status'] == 'publish' ):
-            $class = ($wp_query->query_vars['post_status'] == 'publish') ? ' class="current"' : '';
+            $class = ($wp_query->get_query_var['post_status'] == 'publish') ? ' class="current"' : '';
             $views['publish'] = sprintf(
             '<a href="%1$s"%2$s>%4$s <span class="count">(%3$d)</span></a>',
             admin_url('edit.php?post_type=post'),
@@ -76,7 +76,7 @@ function fix_post_counts($views) {
             __('Publish')
         );
         elseif( $type['status'] == 'draft' ):
-            $class = ($wp_query->query_vars['post_status'] == 'draft') ? ' class="current"' : '';
+            $class = ($wp_query->get_query_var['post_status'] == 'draft') ? ' class="current"' : '';
             $views['draft'] = sprintf(
             '<a href="%1$s"%2$s>%4$s <span class="count">(%3$d)</span></a>',
             admin_url('edit.php?post_type=post'),
@@ -85,7 +85,7 @@ function fix_post_counts($views) {
             __('Draft')
         );
         elseif( $type['status'] == 'pending' ):
-            $class = ($wp_query->query_vars['post_status'] == 'pending') ? ' class="current"' : '';
+            $class = ($wp_query->get_query_var['post_status'] == 'pending') ? ' class="current"' : '';
             $views['pending'] = sprintf(
             '<a href="%1$s"%2$s>%4$s <span class="count">(%3$d)</span></a>',
             admin_url('edit.php?post_type=post'),
@@ -94,7 +94,7 @@ function fix_post_counts($views) {
             __('Pending')
         );
         elseif( $type['status'] == 'trash' ):
-            $class = ($wp_query->query_vars['post_status'] == 'trash') ? ' class="current"' : '';
+            $class = ($wp_query->get_query_var['post_status'] == 'trash') ? ' class="current"' : '';
             $views['trash'] = sprintf(
             '<a href="%1$s"%2$s>%4$s <span class="count">(%3$d)</span></a>',
             admin_url('edit.php?post_type=post'),
