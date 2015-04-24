@@ -35,7 +35,7 @@ Created By: http://goo.gl/XbGy3B
 * In the admin panel under plugins, click active "PBP own post, media & comments for Author".
 * Enjoy!
 
-== Screenshot ==
+== Screenshots ==
 1. Before install
 2. After install
 
